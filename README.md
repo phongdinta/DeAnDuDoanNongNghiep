@@ -70,11 +70,8 @@ Sau khi huấn luyện mô hình LinearSVR, các chỉ số đánh giá bao gồ
 ---
 
 ## 👨‍🌾 Tác giả
-- Thành viên thực hiện: [Tên của bạn hoặc nhóm bạn]
+- Sinh viên thực hiện: Tạ Đình Phong
+- Giảng viên hướng dẫn: ThS Nguyễn Phương Nam
 
 ---
-
-## 📌 Ghi chú
-- Ứng dụng hướng đến mục tiêu học thuật và minh họa mô hình ML đơn giản
-- Dữ liệu có thể được giả lập hoặc tinh chỉnh để phù hợp bài toán minh họa
 
